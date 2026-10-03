@@ -1,0 +1,7 @@
+/* memberikan styling ke halaman komponen */
+.menu-item {
+  background-color: antiquewhite;
+  padding: 10px;
+  color: green;
+  border-radius: 10px;
+}
